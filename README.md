@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Data Scientist || Machine Learning [Blogger](medium.com/@lokeshrth4617) || Kaggle Rank holder-[Top 4%](https://www.kaggle.com/lokeshrth4617)
+
 <!--
 **Lokeshrathi/Lokeshrathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
