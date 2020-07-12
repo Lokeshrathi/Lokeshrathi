@@ -1,4 +1,5 @@
 ### Hi there 👋
+- I am currently working on projects which majorly focus on Data Science and Data Analysis.
 
 <!--
 **Lokeshrathi/Lokeshrathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
