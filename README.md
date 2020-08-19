@@ -2,6 +2,9 @@
 
 Data Scientist || Machine Learning [Blogger](medium.com/@lokeshrth4617) || Kaggle Rank holder-[Top 4%](https://www.kaggle.com/lokeshrth4617)
 
+[![HitCount](http://hits.dwyl.com/{username}/{project}.svg)](http://hits.dwyl.com/{username}/{project})
+
+
 <!--
 **Lokeshrathi/Lokeshrathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
