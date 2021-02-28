@@ -7,7 +7,7 @@ Data Scientist || Machine Learning [Blogger](medium.com/@lokeshrth4617) || Kaggl
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on projects which majorly focus on **Data Science**.
+- 🔭 I’m currently working as a Data Analyst at Hiveminds in Bangalore,India.
 - 🌱 I’m currently learning **Machine Learning Algorithms.**
 - 👯 I’m looking to collaborate on [Kaggle](https://www.kaggle.com/lokeshrth4617/) Competitions.
 - 🤔 I’m looking for help with getting placed as a Data Scientist/Machine Learning Engineer
