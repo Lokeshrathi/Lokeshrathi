@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working as a Data Analyst at HiveMinds in Bangalore,India.
 - 🌱 I’m currently learning **Machine Learning Algorithms.**
-- 👯 I’m looking to collaborate on [Kaggle](https://www.kaggle.com/lokeshrth4617/) Competitions.
 - 📫 How to reach me: [Twitter](https://twitter.com/lokeshrathi13) || [LinkedIn](https://www.linkedin.com/in/lokeshrathi/) || [Medium](medium.com/@lokeshrth4617)
 - 😄 Pronouns: He/Him
 
